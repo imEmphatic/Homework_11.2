@@ -1,5 +1,5 @@
 def main():
-    """"first func"""
+    """"first function"""
     user_input = str(input("Введите текст для вывода с заглавными буквами: "))
     print(user_input.upper())
 
